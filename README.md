@@ -1,31 +1,64 @@
-# parcours-reseau-cybersecurite
-Portfolio de mes apprentissages en réseau et cybersécurité : projets, ressources et compétences acquises.
 # 🚀 Mon Parcours Réseau & Cybersécurité
 
-Bonjour 👋 Je m'appelle Gabriel Crépin.  
-Je débute dans le réseau et la cybersécurité.  
-Ce README est mon carnet de bord.
+Bonjour 👋 Je m'appelle Gabriel, je débute dans le domaine des réseaux et de la cybersécurité.  
+Ce README est mon carnet de bord pour suivre mes progrès, mes apprentissages et mes projets.
+
+---
 
 ## 🎯 Objectifs
-- Comprendre TCP/IP
-- Configurer un réseau simple
-- Apprendre les bases de la cybersécurité
+
+- Comprendre les bases des réseaux informatiques  
+- Apprendre les principes de la cybersécurité  
+- Créer des projets pratiques pour mettre en application mes connaissances  
+- Construire un portfolio visible pour recruteurs
+
+---
+
+## 📚 Mes ressources d’apprentissage
+
+- [OpenClassrooms — Bases de l’informatique](https://openclassrooms.com/fr/courses/43538-revisez-les-bases-de-linformatique)  
+- [Cisco Networking Academy](https://www.netacad.com/)  
+- [TryHackMe](https://tryhackme.com/)  
+- [OverTheWire](https://overthewire.org/wargames/)  
+- Chaînes YouTube : Grafikart, The Cyber Mentor, NetworkChuck  
+
+---
 
 ## 🛠 Compétences en cours
-- Réseaux : TCP/IP, OSI
-- Sécurité : VPN, firewall
-- Outils : Wireshark, Cisco Packet Tracer
 
-## 📚 Ressources
-- [Cisco Networking Academy](https://www.netacad.com/)
-- [OpenClassrooms](https://openclassrooms.com)
+- Notions de réseau : IP, TCP/IP, DNS, LAN, WAN  
+- Utilisation de Packet Tracer  
+- Analyse réseau avec Wireshark  
+- Concepts de cybersécurité : pare-feu, VPN, chiffrement  
+- Hacking éthique de base
 
-## 🗂 Projets
-| Date       | Projet                       | Statut      |
-|------------|------------------------------|-------------|
-| 2025-09-24 | Création de README GitHub   | ✅ Terminé  |
+---
 
+## 📅 Mon plan d’apprentissage
+
+| Semaine | Objectif |
+|---------|----------|
+| Semaine 1 | Bases de l’informatique |
+| Semaine 2 | Notions de réseau |
+| Semaine 3 | Mise en pratique réseau |
+| Semaine 4 | Bases cybersécurité |
+| Semaine 5 | Projets et portfolio |
+
+---
+
+## 📂 Projets
+
+- **Projet 1** : Mini-lab réseau avec Packet Tracer  
+- **Projet 2** : Analyse réseau avec Wireshark  
+- **Projet 3** : Simulations de cybersécurité avec TryHackMe  
+
+---
 ## 📌 Contact
 - GitHub : [Gabrielcrp](https://github.com/Gabrielcrp)  
 - LinkedIn : [Profil LinkedIn](https://www.linkedin.com/in/gabriel-crépin-8113a9317)  
 - Email : gcrepinpro@outlook.fr
+
+---
+
+> "L’apprentissage est un voyage, pas une destination."  
+> — Anonyme
