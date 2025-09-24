@@ -53,6 +53,13 @@ Ce README est mon carnet de bord pour suivre mes progrès, mes apprentissages et
 - **Projet 3** : Simulations de cybersécurité avec TryHackMe  
 
 ---
+
+## 📖 Journal d’apprentissage
+
+- **Jour 1** : Début de mon apprentissage informatique.
+- Découverte des systèmes d’exploitation.
+---
+
 ## 📌 Contact
 - GitHub : [Gabrielcrp](https://github.com/Gabrielcrp)  
 - LinkedIn : [Profil LinkedIn](https://www.linkedin.com/in/gabriel-crépin-8113a9317)  
