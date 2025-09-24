@@ -1,4 +1,4 @@
-# parcours-r-seau-cybers-curit-
+# parcours-reseau-cybersecurite
 Portfolio de mes apprentissages en réseau et cybersécurité : projets, ressources et compétences acquises.
 # 🚀 Mon Parcours Réseau & Cybersécurité
 
