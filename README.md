@@ -20,7 +20,8 @@ Ce README est mon carnet de bord pour suivre mes progrès, mes apprentissages et
 - [Cisco Networking Academy](https://www.netacad.com/)  
 - [TryHackMe](https://tryhackme.com/)  
 - [OverTheWire](https://overthewire.org/wargames/)  
-- Chaînes YouTube : Grafikart, The Cyber Mentor, NetworkChuck  
+- Chaînes YouTube : Bertrand Tech,
+Grafikart, The Cyber Mentor, NetworkChuck  
 
 ---
 
