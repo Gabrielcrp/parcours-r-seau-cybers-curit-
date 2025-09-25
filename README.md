@@ -69,8 +69,10 @@ boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk
 **Explorer /home**  
 - Commande : `cd /home && ls`  
 - Résultat :
-(vide)  
+(vide)
+
 **Explorer /etc**  
+
 - Commande : `cd /etc && ls`  
 - Résultat :  
 Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)  
