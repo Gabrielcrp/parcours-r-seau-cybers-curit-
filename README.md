@@ -72,7 +72,7 @@ boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk
 (vide)
 **Explorer /etc**  
 - Commande : `cd /etc && ls`  
-Résultat :
+- Résultat :  
 Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)  
 - Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
 - Jour 3 : Exercice gestion fichiers.
