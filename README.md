@@ -58,7 +58,7 @@ Grafikart, The Cyber Mentor, NetworkChuck
 ## 📖 Journal d’apprentissage
 
 - Jour 1 : Début de mon apprentissage informatique.
-- Jour 2 : Découverte de Linux et du terminal.
+- Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
 - Jour 3 : Exercice gestion fichiers.
 - Jour 4 : Installation d’un logiciel test.
 
