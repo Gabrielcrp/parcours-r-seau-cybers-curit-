@@ -69,7 +69,7 @@ boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk
 **Explorer /home**  
 - Commande : `cd /home && ls`  
 - Résultat :
-- (vide)  
+(vide)  
 - Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
 - Jour 3 : Exercice gestion fichiers.
 - Jour 4 : Installation d’un logiciel test.
