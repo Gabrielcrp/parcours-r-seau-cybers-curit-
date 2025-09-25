@@ -57,8 +57,25 @@ Grafikart, The Cyber Mentor, NetworkChuck
 
 ## 📖 Journal d’apprentissage
 
-- **Jour 1** : Début de mon apprentissage informatique.
-- Découverte des systèmes d’exploitation.
+- Jour 1 : Début de mon apprentissage informatique.
+- Jour 2 : Découverte de Linux et du terminal.
+- Jour 3 : Exercice gestion fichiers.
+- Jour 4 : Installation d’un logiciel test.
+
+---
+
+## 🔐 Mes premiers audits
+
+### 🖥️ Mini Audit PC — 24/09/2025
+
+1. Système : à jour ✅  
+2. Comptes : OK (1 seul)  
+3. Mot de passe : fort ✅  
+4. Antivirus / Firewall : activés ✅  
+5. Wi-Fi : WPA2, mot de passe sécurisé ✅  
+6. Logiciels : aucun suspect ✅  
+7. Sauvegardes : pas de sauvegarde → ⚠️ à corriger
+   
 ---
 
 ## 📌 Contact
