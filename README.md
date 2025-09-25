@@ -62,7 +62,7 @@ Grafikart, The Cyber Mentor, NetworkChuck
 
 **Découverte de la racine Linux**  
 - Commande : `ls`  
-- Résultat :
+- Résultat :  
 bin dev init lib64 mnt root sbin.usr-is-merged sys var wslNeeiol  
 bin.usr-is-merged etc lib lost+found opt run snap tmp wslBJMhnl wsljDhdol  
 boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk  
