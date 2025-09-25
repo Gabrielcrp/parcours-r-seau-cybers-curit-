@@ -66,18 +66,21 @@ Grafikart, The Cyber Mentor, NetworkChuck
 bin dev init lib64 mnt root sbin.usr-is-merged sys var wslNeeiol  
 bin.usr-is-merged etc lib lost+found opt run snap tmp wslBJMhnl wsljDhdol  
 boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk
+
 **Explorer /home**  
 - Commande : `cd /home && ls`  
 - Résultat :
-(vide)
+(vide)  
 
 **Explorer /etc**  
 - Commande : `cd /etc && ls`  
 - Résultat :  
-Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)  
+Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)
+
 **Explorer /var**  
 - Commande : cd /var && ls  
 - Résultat :  
+backups  cache  crash  lib  local  lock  log  mail  opt  run  snap  spool  tmp  
 - Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
 - Jour 3 : Exercice gestion fichiers.
 - Jour 4 : Installation d’un logiciel test.
