@@ -80,10 +80,7 @@ Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)
 **Explorer /var**  
 - Commande : cd /var && ls  
 - Résultat :  
-backups  cache  crash  lib  local  lock  log  mail  opt  run  snap  spool  tmp  
-- Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
-- Jour 3 : Exercice gestion fichiers.
-- Jour 4 : Installation d’un logiciel test.
+backups  cache  crash  lib  local  lock  log  mail  opt  run  snap  spool  tmp
 
 ---
 
