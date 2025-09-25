@@ -85,5 +85,3 @@ Grafikart, The Cyber Mentor, NetworkChuck
 
 ---
 
-> "L’apprentissage est un voyage, pas une destination."  
-> — Anonyme
