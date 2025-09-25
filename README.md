@@ -65,7 +65,11 @@ Grafikart, The Cyber Mentor, NetworkChuck
 - Résultat :  
 bin dev init lib64 mnt root sbin.usr-is-merged sys var wslNeeiol  
 bin.usr-is-merged etc lib lost+found opt run snap tmp wslBJMhnl wsljDhdol  
-boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk  
+boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk
+**Explorer /home**  
+- Commande : `cd /home && ls`  
+- Résultat :
+- (vide)  
 - Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
 - Jour 3 : Exercice gestion fichiers.
 - Jour 4 : Installation d’un logiciel test.
