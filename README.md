@@ -78,7 +78,7 @@ boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk
 Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)
 
 **Explorer /var**  
-- Commande : cd /var && ls  
+- Commande : `cd /var && ls` 
 - Résultat :  
 backups  cache  crash  lib  local  lock  log  mail  opt  run  snap  spool  tmp
 
