@@ -57,19 +57,14 @@ Grafikart, The Cyber Mentor, NetworkChuck
 
 ## 📖 Journal d’apprentissage
 
-- Jour 1 : Début de mon apprentissage informatique.  
-  Installation Ubuntu + premières commandes.  
-  Découverte de la racine Linux :  
-Commande : ls
+### Jour 1 : Début de mon apprentissage informatique
+- Installation Ubuntu + premières commandes  
 
-resultat : bin dev init lib64 mnt root sbin.usr-is-merged  sys  var  wslNeeiol  
-bin.usr-is-merged  etc   lib  lost+found opt run snap tmp wslBJMhnl  wsljDhdol  
-boot home  lib.usr-is-merged  media  proc  sbin  srv  usr wslFbGnol  wslnNBGjk  
-Explorer /home :  
-Commande : cd /home && ls  
-
-Résultat : (vide)  
-
+**Découverte de la racine Linux**  
+- Commande : `ls`  
+- Résultat : bin dev init lib64 mnt root sbin.usr-is-merged sys var wslNeeiol  
+bin.usr-is-merged etc lib lost+found opt run snap tmp wslBJMhnl wsljDhdol  
+boot home lib.usr-is-merged media proc sbin srv usr wslFbGnol wslnNBGjk  
 - Jour 2 : Installation de Linux (WSL/Ubuntu) et premières mises à jour.
 - Jour 3 : Exercice gestion fichiers.
 - Jour 4 : Installation d’un logiciel test.
