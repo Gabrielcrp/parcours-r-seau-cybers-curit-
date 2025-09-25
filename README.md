@@ -82,6 +82,11 @@ Beaucoup de fichiers de configuration système (network, passwd, hosts, etc…)
 - Résultat :  
 backups  cache  crash  lib  local  lock  log  mail  opt  run  snap  spool  tmp
 
+**Explorer /usr**  
+- Commande : `cd /usr && ls`  
+- Résultat :
+bin  games  include  lib  lib64  libexec  local  sbin  share  src
+
 ---
 
 ## 🔐 Mes premiers audits
